@@ -31,9 +31,10 @@ This repository contains the following directories:
 | ID | Group | Task | Level | Start Date | Status |
 | --- | --- | --- | --- | --- | --- |
 | 001 | Arrays | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | Easy | 2023-04-01 | Done |
-| 002 | Arrays | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)| Easy | 2022-04-01 | Done |
+| 002 | Arrays | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/) | Easy | 2022-04-01 | Done |
 | 003 | Arrays | [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | Easy | 2023-04-02 | Done |
-| 004 | Arrays | [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | 2023-04-02 | In Progress |
+| 004 | Arrays | [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | 2023-04-02 | Done |
+| 005 | Arrays | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | Easy | 2023-04-02 | Done |
 
 
 ## License
