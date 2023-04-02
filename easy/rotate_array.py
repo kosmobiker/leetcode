@@ -13,7 +13,6 @@ class Solution:
         nums[:] = res
 
 
-
 if __name__ == '__main__':
     s = Solution()
     # Test case 1
@@ -36,3 +35,4 @@ if __name__ == '__main__':
     k = 2
     s.rotate(nums3, k)
     assert nums2 == expected_output2, f"Test Case 1 Failed: expected output {expected_output2}, but got {nums2}"
+    
