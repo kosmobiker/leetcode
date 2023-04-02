@@ -31,7 +31,8 @@ This repository contains the following directories:
 | ID | Task | Level | Start Date | Status |
 | --- | --- | --- | --- | --- |
 | 001 | [Remove Duplicates from Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/) | Easy | 2023-04-01 | Done |
-| 002 | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)| Easy | 2022-04-10 | In Progress |
+| 002 | [Best Time to Buy and Sell Stock II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)| Easy | 2022-04-01 | Done |
+| 003 | [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/) | Easy | 2023-04-02 | In Progress |
 
 
 ## License
