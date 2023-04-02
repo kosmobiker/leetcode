@@ -5,9 +5,10 @@ name = "pypi"
 
 [packages]
 requests = "*"
-numpy = "*"
+pytest = "*"
 
 [dev-packages]
+pytest = "*"
 
 [requires]
 python_version = "3.9"
