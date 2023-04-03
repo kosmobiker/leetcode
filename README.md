@@ -36,6 +36,7 @@ This repository contains the following directories:
 | 004 | Arrays | [Contains Duplicate](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/578/) | Easy | 2023-04-02 | Done |
 | 005 | Arrays | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) | Easy | 2023-04-02 | Done |
 | 006 | Arrays | [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | Easy | 2023-04-02 | Done |
+| 007 | Arrays | [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) | Easy | 2023-04-03 | In Progress |
 
 
 
