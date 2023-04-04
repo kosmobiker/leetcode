@@ -38,7 +38,7 @@ This repository contains the following directories:
 | 006 | Arrays | [Intersection of Two Arrays II](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/) | Easy | 2023-04-02 | Done |
 | 007 | Arrays | [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) | Easy | 2023-04-03 | Done |
 | 008 | Arrays | [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) | Easy | 2023-04-03 | Done |
-| 009 | Arrays | [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) | Easy | 2023-04-03 | In Progress |
+| 009 | Arrays | [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) | Easy | 2023-04-03 | Done |
 
 
 

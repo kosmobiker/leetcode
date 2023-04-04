@@ -8,7 +8,6 @@ and you may not use the same element twice.
 You can return the answer in any order.
 """
 from typing import List
-from itertools import combinations
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -20,7 +19,6 @@ class Solution:
         # elegant solution from leetcode
         d = {}
         for i in range(len(nums)):
-            print(d)
             if target - nums[i] not in d:
                 d[nums[i]] = i
             else:
