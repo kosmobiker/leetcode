@@ -40,6 +40,7 @@ This repository contains the following directories:
 | 008 | Arrays | [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) | Easy | 2023-04-03 | Done |
 | 009 | Arrays | [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) | Easy | 2023-04-03 | Done |
 | 010 | Arrays | [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/) | Easy | 2023-04-04 | Done |
+| 011 | Arrays | [Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/) | Easy | 2023-04-04 | Done |
 
 
 
