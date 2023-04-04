@@ -39,6 +39,8 @@ This repository contains the following directories:
 | 007 | Arrays | [Plus One](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/559/) | Easy | 2023-04-03 | Done |
 | 008 | Arrays | [Move Zeroes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/567/) | Easy | 2023-04-03 | Done |
 | 009 | Arrays | [Two Sum](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/546/) | Easy | 2023-04-03 | Done |
+| 010 | Arrays | [Valid Sudoku](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/769/) | Easy | 2023-04-04 | Done |
+
 
 
 
