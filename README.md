@@ -43,6 +43,7 @@ This repository contains the following directories:
 | 011 | Arrays | [Rotate Image](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/770/) | Easy | 2023-04-04 | Done |
 | 012 | Strings | [Reverse String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/879/) | Easy | 2023-04-04 | Done |
 | 013 | Strings | [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/) | Easy | 2023-04-04 | Done |
+| 014 | Strings | [First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/) | Easy | 2023-04-05 | Done |
 
 
 
