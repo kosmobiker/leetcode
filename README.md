@@ -45,6 +45,7 @@ This repository contains the following directories:
 | 013 | Strings | [Reverse Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/880/) | Easy | 2023-04-04 | Done |
 | 014 | Strings | [First Unique Character in a String](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/881/) | Easy | 2023-04-05 | Done |
 | 015 | Strings | [Valid Anagram](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/882/) | Easy | 2023-04-05 | Done |
+| 016 | Strings | [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/) | Easy | 2023-04-06 | Done |
 
 
 
