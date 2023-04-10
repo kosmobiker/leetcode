@@ -23,18 +23,39 @@ Do not ignore any characters other than the leading whitespace or the rest of th
 """
 class Solution:
     def myAtoi(self, s: str) -> int:
-        for char in s:
-            if char == ' ':
-                continue
-            if char == '-':
+        s = s.lstrip()
+        m = 1
+        if len(s)> 0 and (s[0] == '-' or s[0] == '+'):
+            if s[0] == '-':
                 m = -1
-            if char == 
-    
+            s = s[1:]
+        elif len(s)> 0 and s[0] == '+':
+            m = 1
+            s = s[1:]
+        else: m = 1
+        digits = ""
+        for char in s:
+            if char.isdigit():
+                digits += char
+            else:
+                break
+        if len(digits) > 0:
+            digits = m * int(digits)
+        else:
+            digits = 0
+        if digits > 2**31 - 1:
+            return 2**31 - 1
+        elif digits < -2**31:
+            return -2**31
+        else:
+            return digits
+        
+            
 if __name__ == '__main__':
     s = Solution()
     
     # Test case 1
-    s1 = "  -42"
+    s1 = "42"
     expected1 = 42
     r1 = s.myAtoi(s1)
     assert r1 == expected1, f"Test Case 1 Failed: expected output {expected1}, but got {r1}"
@@ -50,3 +71,9 @@ if __name__ == '__main__':
     expected3 = 4193
     r3 = s.myAtoi(s3)
     assert r3 == expected3, f"Test Case 3 Failed: expected output {expected3}, but got {r3}"
+    
+    # Test case 4
+    s4 = "-91283472332"
+    expected4 = -2147483648
+    r4 = s.myAtoi(s4)
+    assert r4 == expected4, f"Test Case 4 Failed: expected output {expected4}, but got {r4}"
