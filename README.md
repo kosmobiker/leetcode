@@ -48,7 +48,7 @@ This repository contains the following directories:
 | 016 | Strings | [Valid Palindrome](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/883/) | Easy | 2023-04-06 | Done |
 | 017 | Strings | [String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/) | Easy | 2023-04-06 | Done |
 | 018 | Strings | [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/) | Easy | 2023-04-10 | Done |
-
+| 019 | Strings | [Longest Common Prefix](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/) | Easy | 2023-04-10 | Done |
 
 
 ## License
