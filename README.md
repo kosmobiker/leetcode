@@ -49,6 +49,7 @@ This repository contains the following directories:
 | 017 | Strings | [String to Integer (atoi)](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/884/) | Easy | 2023-04-06 | Done |
 | 018 | Strings | [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/) | Easy | 2023-04-10 | Done |
 | 019 | Strings | [Longest Common Prefix](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/) | Easy | 2023-04-10 | Done |
+| 020 | Linked List | [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) | Easy | 2023-04-15 | In Progress |
 
 
 ## License
