@@ -7,7 +7,6 @@
 
 -- The formula for Euclidean distance between two points (x1, y1) and (x2, y2) is:
 --             d = sqrt( (x1 - x2)^2 + (y1 - y2)^2 )
-
 select cast(
     sqrt(
         power(max(lat_n) - min(lat_n), 2) +
