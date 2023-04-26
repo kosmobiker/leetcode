@@ -56,7 +56,7 @@ This repository contains the following directories:
 | ID | Group | Task | Level | Start Date | Status |
 | --- | --- | --- | --- | --- | --- |
 | 001 | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
-| 001 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
+| 002 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
 
 
 
