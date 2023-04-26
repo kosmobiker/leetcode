@@ -5,4 +5,12 @@
 -- Query the Euclidean Distance between points P1 and P2 and format your answer 
 -- to display 4 decimal digits.
 
+-- The formula for Euclidean distance between two points (x1, y1) and (x2, y2) is:
+--             d = sqrt( (x1 - x2)^2 + (y1 - y2)^2 )
 
+select cast(
+    sqrt(
+        power(max(lat_n) - min(lat_n), 2) +
+        power(max(long_w) - min(long_w), 2)
+        ) as decimal(18, 4))
+from station;
