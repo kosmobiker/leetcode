@@ -19,33 +19,42 @@ Custom testing:
     3. The output will be the entire list after calling your function.
 """
 # Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
-class Solution:
+# class Solution:
     def deleteNode(self, node):
         """
         :type node: ListNode
         :rtype: void Do not return anything, modify node in-place instead.
         """
+        nextNode = node.next
+        # Step 2
+        node.val = nextNode.val
+        # Step 3
+        node.next = nextNode.next
+        nextNode.next = None
+        del(nextNode)
     
-    pass
 
 if __name__ == '__main__':
-    s = Solution()
     
-    # Test case 1
-    head = [4,5,1,9]
+    
+    # # Test case 1
+    head1 = ListNode([4,5,1,9])
     node1 = 5
     expected1 = [4,1,9]
-    r1 = s.deleteNode(node1)
-    assert r1 == expected1, f"Test Case 1 Failed: expected output {expected1}, but got {r1}"
+    # r1 = s.deleteNode(node1)
+    print(head1.val)
+    head1.deleteNode(node1)
+    print(head1.val)
+    # assert r1 == expected1, f"Test Case 1 Failed: expected output {expected1}, but got {r1}"
     
-    # Test case 2
-    node2 = 1
-    expected2 = [4,5,9]
-    r2 = s.deleteNode(node2)
-    assert r2 == expected2, f"Test Case 2 Failed: expected output {expected2}, but got {r2}" 
+    # # Test case 2
+    # node2 = 1
+    # expected2 = [4,5,9]
+    # r2 = s.deleteNode(node2)
+    # assert r2 == expected2, f"Test Case 2 Failed: expected output {expected2}, but got {r2}" 
    

@@ -27,6 +27,7 @@ This repository contains the following directories:
 - `Notes`: Contains notes on important concepts, data structures, and algorithms relevant to LeetCode problems.
 
 ## Tracking
+### Python Leetcode Tracker
 
 | ID | Group | Task | Level | Start Date | Status |
 | --- | --- | --- | --- | --- | --- |
@@ -50,6 +51,14 @@ This repository contains the following directories:
 | 018 | Strings | [Implement strStr()](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/885/) | Easy | 2023-04-10 | Done |
 | 019 | Strings | [Longest Common Prefix](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/) | Easy | 2023-04-10 | Done |
 | 020 | Linked List | [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) | Easy | 2023-04-15 | In Progress |
+
+### SQL Hackerrank Tracker
+| ID | Group | Task | Level | Start Date | Status |
+| --- | --- | --- | --- | --- | --- |
+| 001 | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
+| 001 | Advanced Select | [Occupations](https://www.hackerrank.com/challenges/occupations/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
+
+
 
 
 ## License
