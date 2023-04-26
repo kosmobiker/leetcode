@@ -1,9 +1,9 @@
-# LeetCode Interview Preparation
+# LeetCode/Hackerrank Interview Preparation
 
 <img src="https://cdn1.scalablepath.com/_next/image?url=https%3A%2F%2Fcdn-blog.scalablepath.com%2Fuploads%2F2019%2F10%2Fprepare-technical-interview-744x400-2.png&w=1200&q=75" alt="Preparation" width="500" height="300">
 
 
-This repository contains my solutions to [leetcode](https://leetcode.com/) problems and serves as a reference for my interview preparation. LeetCode is a platform that provides a wide range of coding problems that help in enhancing coding skills and preparing for coding interviews.
+This repository contains my solutions to [leetcode](https://leetcode.com/) and [Hackkerrank](https://www.hackerrank.com/) problems and serves as a reference for my interview preparation. LeetCode/Hacckerrank is a platform that provides a wide range of coding problems that help in enhancing coding skills and preparing for coding interviews.
 
 ## Getting Started
 
@@ -13,18 +13,11 @@ To use this repository, simply clone it to your local machine using the followin
 git clone https://github.com/kosmobiker/leetcode.git
 ```
 
-The solutions are written in different programming languages, but mostly in Python.
+The solutions are written in different programming languages, but mostly in Python/SQL.
 
 ## Content
 
-Full list of problems is [here](https://leetcode.com/explore/interview/card/top-interview-questions-easy/).
-
-This repository contains the following directories:
-
-- `Easy`: Contains solutions to LeetCode problems classified as easy.
-- `Medium`: Contains solutions to LeetCode problems classified as medium.
-- `Hard`: Contains solutions to LeetCode problems classified as hard.
-- `Notes`: Contains notes on important concepts, data structures, and algorithms relevant to LeetCode problems.
+Full list of problems is [here](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) and [here](https://www.hackerrank.com/domains/sql).
 
 ## Tracking
 ### Python Leetcode Tracker
@@ -53,6 +46,7 @@ This repository contains the following directories:
 | 020 | Linked List | [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) | Easy | 2023-04-15 | In Progress |
 
 ### SQL Hackerrank Tracker
+
 | ID | Group | Task | Level | Start Date | Status |
 | --- | --- | --- | --- | --- | --- |
 | 001 | Advanced Select | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
@@ -60,6 +54,8 @@ This repository contains the following directories:
 | 003 | Aggregations | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
 | 004 | Aggregations | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | Medium | 2023-04-26 | Done |
 | 005 | Aggregations | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Medium | 2023-04-26 | Done |
+| 006 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
+
 
 
 
