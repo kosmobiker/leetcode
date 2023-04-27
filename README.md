@@ -55,7 +55,8 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 004 | Aggregations | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | Medium | 2023-04-26 | Done |
 | 005 | Aggregations | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | Medium | 2023-04-26 | Done |
 | 006 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
-
+| 007 | Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
+| 008 | Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 
 
 
