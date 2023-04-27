@@ -57,7 +57,7 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 006 | Advanced Select | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem?isFullScreen=true) | Medium | 2023-04-26 | Done |
 | 007 | Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 | 008 | Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
-
+| 009 | Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 
 
 
