@@ -58,6 +58,7 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 007 | Advanced Select | [New Companies](https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 | 008 | Basic Join | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 | 009 | Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
+| 010 | Alternative queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 
 
 
