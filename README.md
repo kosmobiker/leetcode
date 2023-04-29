@@ -60,6 +60,8 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 009 | Basic Join | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 | 010 | Alternative queries | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
 | 011 | Basic Join | [Challenges](https://www.hackerrank.com/challenges/challenges/problem?isFullScreen=true) | Medium | 2023-04-27 | Done |
+| 012 | Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true) | Medium | 2023-04-29 | Done |
+| 013 | Advanced Join | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true) | Medium | 2023-04-29 | Done |
 
 
 
