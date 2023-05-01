@@ -63,6 +63,7 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 012 | Basic Join | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem?isFullScreen=true) | Medium | 2023-04-29 | Done |
 | 013 | Advanced Join | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true) | Medium | 2023-04-29 | Done |
 | 014 | Advanced Join | [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true) | Medium | 2023-05-01 | Done |
+| 015 |Symmetric Pairs | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) | Medium | 2023-05-01 | Done |
 
 
 
