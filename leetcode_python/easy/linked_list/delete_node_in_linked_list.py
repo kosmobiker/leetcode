@@ -1,7 +1,7 @@
 """
-There is a singly-linked list head and we want to delete a node node in it.
-You are given the node to be deleted node. You will not be given access to the first node of head.
-All the values of the linked list are unique, and it is guaranteed that the given node node is not the last node in the linked list.
+There is a singly-linked list `head` and we want to delete a node `node` in it.
+You are given the node to be deleted `node`. You will **not be given access** to the first node of `head`.
+All the values of the linked list are **unique**, and it is guaranteed that the given node `node` is not the last node in the linked list.
 Delete the given node. Note that by deleting the node, we do not mean removing it from memory. 
 
 We mean:
@@ -44,12 +44,9 @@ if __name__ == '__main__':
     
     # # Test case 1
     head1 = ListNode([4,5,1,9])
-    node1 = 5
-    expected1 = [4,1,9]
-    # r1 = s.deleteNode(node1)
+
     print(head1.val)
-    head1.deleteNode(node1)
-    print(head1.val)
+    print(head1.next)
     # assert r1 == expected1, f"Test Case 1 Failed: expected output {expected1}, but got {r1}"
     
     # # Test case 2
