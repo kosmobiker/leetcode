@@ -23,9 +23,11 @@ class ListNode:
     def __init__(self, x):
         self.val = x
         self.next = None
-
-# class Solution:
+    
+class Solution:
     def deleteNode(self, node):
         # Since we know input node is not last node, so nextNode will not be null
         node.val = node.next.val
         node.next = node.next.next
+    
+    
