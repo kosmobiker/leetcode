@@ -45,6 +45,7 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 019 | Strings | [Longest Common Prefix](https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/) | Easy | 2023-04-10 | Done |
 | 020 | Linked List | [Delete Node in a Linked List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/553/) | Easy | 2023-05-01 | Done |
 | 021 | Linked List | [Remove Nth Node From End of List](https://leetcode.com/explore/interview/card/top-interview-questions-easy/93/linked-list/603/) | Easy | 2023-05-01 | In Progress |
+| 022 | Math | [Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/) | Easy | 2023-12-10 | Done |
 
 ### SQL Hackerrank Tracker
 
