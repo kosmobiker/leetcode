@@ -48,6 +48,7 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 022 | Math | [Fizz Buzz](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/743/) | Easy | 2023-12-10 | Done |
 | 023 | Math | [Count Primes](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/744/) | Easy | 2023-12-10 | Done |
 | 024 | Math | [Power of Three](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/745/) | Easy | 2023-12-10 | Done |
+| 025 | Math | [Roman to Integer](https://leetcode.com/explore/interview/card/top-interview-questions-easy/102/math/878/) | Easy | 2023-12-10 | Done |
 
 ### SQL Hackerrank Tracker
 
