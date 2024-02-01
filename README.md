@@ -75,7 +75,9 @@ The solutions are written in different programming languages, but mostly in Pyth
 ### Java Expirience
 | ID | Group | Task | Level | Start Date | Status |
 | --- | --- | --- | --- | --- | --- |
-| 001 | Array / String | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-01 | In Progress |
+| 001 | Array / String | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-01 | Done |
+| 002 | Array / String | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-01 | Done |
+| 003 | Array / String | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-01 | Done |
 
 ## License
 
