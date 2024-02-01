@@ -17,7 +17,9 @@ The solutions are written in different programming languages, but mostly in Pyth
 
 ## Content
 
-Full list of problems is [here](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) and [here](https://www.hackerrank.com/domains/sql).
+- Top Interview Questions [here](https://leetcode.com/explore/interview/card/top-interview-questions-easy/) 
+- SQL hackerrank [here](https://www.hackerrank.com/domains/sql)
+- Java expirience [here](https://leetcode.com/studyplan/leetcode-75/)
 
 ## Tracking
 ### Python Leetcode Tracker
@@ -70,7 +72,10 @@ Full list of problems is [here](https://leetcode.com/explore/interview/card/top-
 | 014 | Advanced Join | [Placements](https://www.hackerrank.com/challenges/placements/problem?isFullScreen=true) | Medium | 2023-05-01 | Done |
 | 015 | Advanced Join | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem?isFullScreen=true) | Medium | 2023-05-01 | Done |
 
-
+### Java Expirience
+| ID | Group | Task | Level | Start Date | Status |
+| --- | --- | --- | --- | --- | --- |
+| 001 | Array / String | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-01 | In Progress |
 
 ## License
 
