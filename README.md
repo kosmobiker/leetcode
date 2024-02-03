@@ -79,6 +79,7 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 002 | Array / String | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-01 | Done |
 | 003 | Array / String | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-01 | Done |
 | 004 | Array / String | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-03 | Done |
+| 005 | Array / String | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-03 | Done |
 
 ## License
 
