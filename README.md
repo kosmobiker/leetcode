@@ -88,6 +88,9 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 001 | Select | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 | 002 | Select | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 | 003 | Select | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 004 | Select | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 005 | Select | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 006 | Basic Joins | [Replace Employee ID With The Unique Identidier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 
 ## License
 
