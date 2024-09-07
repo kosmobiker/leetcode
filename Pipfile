@@ -7,9 +7,12 @@ name = "pypi"
 requests = "*"
 pytest = "*"
 numpy = "*"
+pandas = "*"
+ruff = "*"
 
 [dev-packages]
 pytest = "*"
+ipykernel = "*"
 
 [requires]
 python_version = "*"

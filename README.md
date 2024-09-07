@@ -81,6 +81,13 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 004 | Array / String | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-03 | Done |
 | 005 | Array / String | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75) | Easy | 2024-02-03 | Done |
 
+
+### Leetcode SQL 50
+| ID | Group | Task | Level | Start Date | Status |
+| --- | --- | --- | --- | --- | --- |
+| 001 | Select | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+
+
 ## License
 
 This project is licensed under the MIT License. Feel free to use the code for personal or commercial purposes.
