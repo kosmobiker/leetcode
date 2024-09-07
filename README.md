@@ -91,6 +91,10 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 004 | Select | [Article Views I](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 | 005 | Select | [Invalid Tweets](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 | 006 | Basic Joins | [Replace Employee ID With The Unique Identidier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 007 | Basic Joins | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 008 | Basic Joins | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 009 | Basic Joins | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 010 | Basic Joins | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 
 ## License
 
