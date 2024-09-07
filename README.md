@@ -86,7 +86,8 @@ The solutions are written in different programming languages, but mostly in Pyth
 | ID | Group | Task | Level | Start Date | Status |
 | --- | --- | --- | --- | --- | --- |
 | 001 | Select | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
-
+| 002 | Select | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 003 | Select | [Big Countries](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 
 ## License
 

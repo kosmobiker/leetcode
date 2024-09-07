@@ -19,6 +19,6 @@ select = [
 quote-style = "single"
 indent-style = "tab"
 docstring-code-format = true
-docstring-code-line-length = 30
+docstring-code-line-length = 50
 
 
