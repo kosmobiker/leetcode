@@ -1,17 +1,11 @@
 """
 Given a roman numeral, convert it to an integer.
 """
+
+
 class Solution:
     def romanToInt(self, s: str) -> int:
-        roman = {
-            "I": 1,
-            "V": 5,
-            "X": 10,
-            "L": 50,
-            "C": 100,
-            "D": 500,
-            "M": 1000
-            }
+        roman = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000}
         s = s[::-1]
         result = roman[s[0]]
         for i in range(1, len(s)):
@@ -21,7 +15,8 @@ class Solution:
                 result -= roman[s[i]]
         return result
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     s = Solution()
 
     # Test case 1
