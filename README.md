@@ -95,8 +95,9 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 008 | Basic Joins | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 | 009 | Basic Joins | [Rising Temperature](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
 | 010 | Basic Joins | [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
-| 011 | Basic Joins | [Employee Bonus](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
-| 012 | Basic Joins | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-07 | Done |
+| 011 | Basic Joins | [Employee Bonus](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-08 | Done |
+| 012 | Basic Joins | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-08 | Done |
+| 012 | Basic Joins | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-08 | Done |
 
 ## License
 
