@@ -98,6 +98,9 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 011 | Basic Joins | [Employee Bonus](https://leetcode.com/problems/employee-bonus/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-08 | Done |
 | 012 | Basic Joins | [Students and Examinations](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-08 | Done |
 | 012 | Basic Joins | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-08 | Done |
+| 013 | Basic Joins | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-09 | Done |
+| 014 | Basic Aggregate Functions | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-09 | Done |
+| 015 | Basic Aggregate Functions | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-09 | Done |
 
 ## License
 
