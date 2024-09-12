@@ -101,6 +101,8 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 013 | Basic Joins | [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-09 | Done |
 | 014 | Basic Aggregate Functions | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-09 | Done |
 | 015 | Basic Aggregate Functions | [Average Selling Price](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-09 | Done |
+| 016 | Basic Aggregate Functions | [Project Employees I](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-12 | Done |
+
 
 ## License
 
