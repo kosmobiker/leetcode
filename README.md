@@ -105,6 +105,7 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 017 | Basic Aggregate Functions | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-14 | Done |
 | 018 | Basic Aggregate Functions | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-14 | Done |
 | 019 | Basic Aggregate Functions | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-14 | Done |
+| 020 | Basic Aggregate Functions | [| 019 | Basic Aggregate Functions | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-14 | Done |](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-16 | Done |
 
 
 ## License
