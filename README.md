@@ -106,6 +106,7 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 018 | Basic Aggregate Functions | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-14 | Done |
 | 019 | Basic Aggregate Functions | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-14 | Done |
 | 020 | Basic Aggregate Functions | [| 019 | Basic Aggregate Functions | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-14 | Done |](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-16 | Done |
+| 021 | Basic Aggregate Functions | [| 019 | Basic Aggregate Functions | [Game Play Analysis IV](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-23 | Done |](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-16 | Done |
 
 
 ## License
