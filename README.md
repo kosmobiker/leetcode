@@ -107,6 +107,11 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 019 | Basic Aggregate Functions | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-14 | Done |
 | 020 | Basic Aggregate Functions | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-16 | Done |
 | 021 | Basic Aggregate Functions | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-09-23 | Done |
+| 022 | Sorting and Grouping | [Sorting and Grouping](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-09-23 | Done |
+| 023 | Sorting and Grouping | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-12-07 | Done |
+| 024 | Sorting and Grouping | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-12-07 | Done |
+| 025 | Sorting and Grouping | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-12-07 | Done |
+
 
 
 ## License
