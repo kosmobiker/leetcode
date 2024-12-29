@@ -1,5 +1,5 @@
 -- Write your PostgreSQL query statement below
 SELECT class
-FROM Courses
+FROM courses
 GROUP BY class
 HAVING COUNT(DISTINCT student) >= 5

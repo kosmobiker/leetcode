@@ -14,7 +14,7 @@ Table: Sales
 product_id is a foreign key (reference column) to Product table.
 Each row of this table shows a sale on the product product_id in a certain year.
 Note that the price is per unit.
- 
+
 
 Table: Product
 
@@ -26,12 +26,15 @@ Table: Product
 +--------------+---------+
 product_id is the primary key (column with unique values) of this table.
 Each row of this table indicates the product name of each product.
- 
+
 
 Write a solution to report the product_name, year, and price for each sale_id in the Sales table.
 
 Return the resulting table in any order.
 */
-SELECT p.product_name, s.year, s.price
-FROM Product AS p
-JOIN Sales AS s ON p.product_id = s.product_id
+SELECT
+    p.product_name,
+    s.year,
+    s.price
+FROM product AS p
+INNER JOIN sales AS s ON p.product_id = s.product_id
