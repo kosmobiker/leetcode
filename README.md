@@ -114,6 +114,7 @@ The solutions are written in different programming languages, but mostly in Pyth
 | 026 | Sorting and Grouping | [Find Followers Count](https://leetcode.com/problems/find-followers-count/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-12-29 | Done |
 | 027 | Sorting and Grouping | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-12-29 | Done |
 | 028 | Sorting and Grouping | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | 2024-12-29 | Done |
+| 029 | Advanced Select and Joins | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | 2024-12-29 | Done |
 
 
 
