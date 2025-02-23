@@ -5,12 +5,15 @@
 -- Leaf: If node is leaf node.
 -- Inner: If node is neither root nor leaf node.
 
-SELECT N, 
-CASE
-    WHEN P IS NULL THEN "Root"
-    WHEN NOT EXISTS (SELECT inner_tbl.P FROM BST AS inner_tbl
-                     WHERE inner_tbl.P = outer_tbl.N) THEN "Leaf"
-    ELSE "Inner"
-END
-FROM BST AS outer_tbl
+SELECT
+    N,
+    CASE
+        WHEN P IS NULL THEN "Root"
+        WHEN NOT EXISTS (
+            SELECT INNER_TBL.P FROM BST AS INNER_TBL
+            WHERE INNER_TBL.P = OUTER_TBL.N
+        ) THEN "Leaf"
+        ELSE "Inner"
+    END
+FROM BST AS OUTER_TBL
 ORDER BY N ASC;

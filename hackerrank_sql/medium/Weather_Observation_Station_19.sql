@@ -7,9 +7,11 @@
 
 -- The formula for Euclidean distance between two points (x1, y1) and (x2, y2) is:
 --             d = sqrt( (x1 - x2)^2 + (y1 - y2)^2 )
-select cast(
-    sqrt(
-        power(max(lat_n) - min(lat_n), 2) +
-        power(max(long_w) - min(long_w), 2)
-        ) as decimal(18, 4))
-from station;
+SELECT
+    cast(
+        sqrt(
+            power(max(lat_n) - min(lat_n), 2)
+            + power(max(long_w) - min(long_w), 2)
+        ) AS decimal(18, 4)
+    )
+FROM station;

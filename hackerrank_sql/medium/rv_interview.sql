@@ -1,21 +1,21 @@
 /*
-Three tasks regarding SQL from 
+Three tasks regarding SQL from
 Revolut hackerrank interview test
 */
 
-select count(u.id)
-from users u
-left join transactions t
-on u.id = t.user_id
-where t.user_id is null;
+SELECT count(u.id)
+FROM users AS u
+LEFT JOIN transactions AS t
+    ON u.id = t.user_id
+WHERE t.user_id IS null;
 
-select count(user_id)
-from transactions
-group by user_id
-having sum(amount_usd) < 10;
+SELECT count(user_id)
+FROM transactions
+GROUP BY user_id
+HAVING sum(amount_usd) < 10;
 
-select 
-    count(case when u.country_id is null then 1 end) as null_count,
-    count(case when u.country_id is not null then 1 end) as not_null_count
-from countries c
-left join users u on c.id = u.country_id;
+SELECT
+    count(CASE WHEN u.country_id IS null THEN 1 END) AS null_count,
+    count(CASE WHEN u.country_id IS NOT null THEN 1 END) AS not_null_count
+FROM countries AS c
+LEFT JOIN users AS u ON c.id = u.country_id;
